@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
-
+//SE CREA UNA CLASE DE TEST POR CADA CLASE JAVA EN EL SOURCE. PARA MANTENERLO ORGANIZADO.
 //Con estos import ya no se necesita poner Assertions antes de cada metodo
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assumptions.*;
